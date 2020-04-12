@@ -1,0 +1,6 @@
+Trapeze:     0.915953  Error: 1.95322e-07
+Simpson:     0.915953  Error: 1.00536e-10
+Simpson_3_8: 0.916507  Error: 0.000749727
+Rectangle:   0.915953  Error: 9.751e-08
+Rectangle_L: 0.916062  Error: 0.000108356
+Rectangle_R: 0.915844  Error: 0.000108746
